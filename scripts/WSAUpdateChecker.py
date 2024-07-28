@@ -245,7 +245,7 @@ magisk_update_checker = UtilUpdateChecker(
 gapps_update_checker = UtilUpdateChecker(
     app_id="gapps",
     app_name="MindTheGapps",
-    latest_version_url="https://api.github.com/repos/YT-Advanced/MindTheGappsBuilder/releases/latest",
+    latest_version_url="https://api.github.com/repos/LSPosed/WSA-Addon/releases/latest",
     json_keys=("name",),
 )
 
